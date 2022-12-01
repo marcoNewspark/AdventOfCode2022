@@ -58,14 +58,9 @@ namespace _20221201
 
         public void ListTopXElves(List<Elf> elves, int topX)
         {
-            var sortedElves = elves.OrderByDescending(e => e.GetCalorieSum()).ToList() ;
-            int value = 0;
-            for(int i=0;i<topX; i++)
-            {
-                Console.WriteLine($"{i}: {sortedElves[i].GetCalorieSum()}");
-                value += sortedElves[i].GetCalorieSum();
-            }
-            Console.WriteLine($"Sum: {value}");
+            int value = elves.OrderBy(e => e.GetCalorieSum()).ToList().TakeLast(3).Sum(e=> e.GetCalorieSum());
+            
+            Console.WriteLine($"Sum of 3 highest: {value}");
         }
     }
 }
