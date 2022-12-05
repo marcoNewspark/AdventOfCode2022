@@ -59,7 +59,6 @@ namespace _20221203
                 Backpack.RemoveRange(0, 3);
             }
             
-
             return res;
         }
 
