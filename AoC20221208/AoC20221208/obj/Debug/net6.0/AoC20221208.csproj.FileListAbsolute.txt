@@ -1,0 +1,16 @@
+C:\src\AdventOfCode2022\AoC20221208\AoC20221208\obj\Debug\net6.0\AoC20221208.csproj.AssemblyReference.cache
+C:\src\AdventOfCode2022\AoC20221208\AoC20221208\obj\Debug\net6.0\AoC20221208.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\AdventOfCode2022\AoC20221208\AoC20221208\obj\Debug\net6.0\AoC20221208.AssemblyInfoInputs.cache
+C:\src\AdventOfCode2022\AoC20221208\AoC20221208\obj\Debug\net6.0\AoC20221208.AssemblyInfo.cs
+C:\src\AdventOfCode2022\AoC20221208\AoC20221208\obj\Debug\net6.0\AoC20221208.csproj.CoreCompileInputs.cache
+C:\src\AdventOfCode2022\AoC20221208\AoC20221208\bin\Debug\net6.0\AoC20221208.exe
+C:\src\AdventOfCode2022\AoC20221208\AoC20221208\bin\Debug\net6.0\AoC20221208.deps.json
+C:\src\AdventOfCode2022\AoC20221208\AoC20221208\bin\Debug\net6.0\AoC20221208.runtimeconfig.json
+C:\src\AdventOfCode2022\AoC20221208\AoC20221208\bin\Debug\net6.0\AoC20221208.dll
+C:\src\AdventOfCode2022\AoC20221208\AoC20221208\bin\Debug\net6.0\AoC20221208.pdb
+C:\src\AdventOfCode2022\AoC20221208\AoC20221208\obj\Debug\net6.0\AoC20221208.dll
+C:\src\AdventOfCode2022\AoC20221208\AoC20221208\obj\Debug\net6.0\refint\AoC20221208.dll
+C:\src\AdventOfCode2022\AoC20221208\AoC20221208\obj\Debug\net6.0\AoC20221208.pdb
+C:\src\AdventOfCode2022\AoC20221208\AoC20221208\obj\Debug\net6.0\AoC20221208.genruntimeconfig.cache
+C:\src\AdventOfCode2022\AoC20221208\AoC20221208\obj\Debug\net6.0\ref\AoC20221208.dll
+C:\src\AdventOfCode2022\AoC20221208\AoC20221208\bin\Debug\net6.0\Input\Input.txt
